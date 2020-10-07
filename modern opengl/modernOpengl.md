@@ -1,13 +1,9 @@
-﻿# Modern OpenGL - Atividade 2
+﻿
+O intuito do trabalho foi confirmar que o OpenGL Moderno (3.3) estava instalado e funcionando de maneira correta. utilizei o comando **make** para compilar o código, o que resultou em alguns warnings mas sem erro de compilação:
 
-O propósito do trabalho é confirmar que o OpenGL Moderno (3.3) está corretamente configurado. Utilizando o **make** para compilar o código, resultou em alguns warnings mas sem erro de compilação:
+![Make](https://github.com/Hellyson206/icg/blob/master/modern%20opengl/images/make.png)
 
-![Make](https://github.com/Shanksir/CG/blob/master/Modern%20OpenGL/images/make.png)
+Executando com o comando **./moderngl_hello_world** a principio foi executado mas sem o triângulo colorido, ao executar o comando **export MESA_GL_VERSION_OVERRIDE=3.3** foi apresentado de maneira correta:
 
-Executando com o comando **./moderngl_hello_world** o triângulo é exibido corretamente:
+![Triangle](https://github.com/Hellyson206/icg/blob/master/modern%20opengl/images/triangulo.png)
 
-![Triangle](https://github.com/Shanksir/CG/blob/master/Modern%20OpenGL/images/triangle.png)
-
-Segue o link do vídeo no momento em que o código foi testado:
-
-[![Video](http://img.youtube.com/vi/kp_X3r8d6SE/0.jpg)](http://www.youtube.com/watch?v=kp_X3r8d6SE "Video")
