@@ -1,4 +1,4 @@
-﻿
+﻿# MODERN OPENGL 3.3
 O intuito do trabalho foi confirmar que o OpenGL Moderno (3.3) estava instalado e funcionando de maneira correta. utilizei o comando **make** para compilar o código, o que resultou em alguns warnings mas sem erro de compilação:
 
 ![Make](https://github.com/Hellyson206/icg/blob/main/modern%20opengl/images/make.png)
